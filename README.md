@@ -10,7 +10,7 @@
     </style>
 </head>
        header img {
-            width: 180px;
+            width: 150px;
         }
 <body>
 
